@@ -1,6 +1,6 @@
 let listPerson = ["You", 'Your'];
 let subject = ["day", "life", "relationship"];
-let adjective = ["happy", "boring", "cool", "funny", "lucky"];
+let adjective = ["happy", "boring", "cool", "funny", "lucky", 'nice'];
 
 function createMessage() {
     let randomeNumberOne = Math.floor(Math.random()*2);
